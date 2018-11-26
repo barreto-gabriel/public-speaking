@@ -2,6 +2,15 @@
 A repo with all my participations at conferences, meetups and events in general.
 
 
+## 2017
+
+### Talks
+
+| Date           | Event          | Slide Deck  | Language | Video |
+|----------------|----------------|-------|----------|--------|
+| November 11 | [TDC POA](http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/trilha-agile) | [Onboarding Técnico](https://pt.slideshare.net/CibeleFerreira8/tdc2017-poa-trilha-agile-onboarding-tcnico-integrando-pessoas-em-times-de-desenvolvimento-gil-de-forma-efetiva) | :brazil: | - |
+
+
 
 ## 2018
 
