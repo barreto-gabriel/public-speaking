@@ -33,3 +33,13 @@ A repo with all my participations at conferences, meetups and events in general.
 | Date           | Event          | Slide Deck  | Language | Video |
 |----------------|----------------|-------|----------|--------|
 | February 05 | [Vinta Talks Recife](https://www.vinta.com.br/) | Pensando um futuro tecnológico justo | :brazil: | - |
+
+
+
+## 2021
+
+### Talks
+
+| Date           | Event          | Slide Deck  | Language | Video |
+|----------------|----------------|-------|----------|--------|
+| May 26 | [Scrum Gathering Rio](https://scrumrio.com/) | [Pensando um futuro tecnológico justo](https://www.slideshare.net/thisgb/onboarding-tcnico-scrum-gathering-rio-2021) | :brazil: | [youtube](https://www.youtube.com/watch?v=Rf3BbSYsR5k&t=12890s&ab_channel=ScrumGatheringRioScrumGatheringRio) |
