@@ -42,4 +42,4 @@ A repo with all my participations at conferences, meetups and events in general.
 
 | Date           | Event          | Slide Deck  | Language | Video |
 |----------------|----------------|-------|----------|--------|
-| May 26 | [Scrum Gathering Rio](https://scrumrio.com/) | [Pensando um futuro tecnológico justo](https://www.slideshare.net/thisgb/onboarding-tcnico-scrum-gathering-rio-2021) | :brazil: | [youtube](https://www.youtube.com/watch?v=Rf3BbSYsR5k&t=12890s&ab_channel=ScrumGatheringRioScrumGatheringRio) |
+| May 26 | [Scrum Gathering Rio](https://scrumrio.com/) | [ONBOARDING TÉCNICO](https://www.slideshare.net/thisgb/onboarding-tcnico-scrum-gathering-rio-2021) | :brazil: | [youtube](https://www.youtube.com/watch?v=Rf3BbSYsR5k&t=12890s&ab_channel=ScrumGatheringRioScrumGatheringRio) |
